@@ -1,6 +1,6 @@
-#DennisFramework
-#简介
-dennisframework是一款微型的php mvc框架，其目的在于让大家更好的理解php mvc框架.
+DennisFramework<br/>
+简介<br/>
+dennisframework是一款微型的php mvc框架，其目的在于让大家更好的理解php mvc框架.<br/>
 
 ##目录说明
 -applications          应用文件目录<br/>
