@@ -4,10 +4,10 @@ dennisframework是一款微型的php mvc框架，其目的在于让大家更好�
 
 目录说明<br/>
 -applications         &nbsp;&nbsp;应用文件目录<br/>
-         --config                配置文件<br/>
-    --controllers              &nbsp;&nbsp;  控制器目录<br/>
-    --models                    &nbsp;&nbsp; 模型目录<br/>
-    --views                     &nbsp;&nbsp; 视图目录<br/>
+         --config           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     配置文件<br/>
+    --controllers              &nbsp; 控制器目录<br/>
+    --models                    &nbsp;&nbsp; &nbsp;&nbsp;模型目录<br/>
+    --views                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 视图目录<br/>
 -framework                    &nbsp;&nbsp; 框架目录<br/>
     --core                      &nbsp;&nbsp; 框架核心目录<br/>
     --database                  &nbsp;&nbsp; 框架数据库目录<br/>
