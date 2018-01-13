@@ -18,5 +18,5 @@ dennisframework是一款微型的php mvc框架，其目的在于让大家更好�
     * images                 图片文件目录<br/>
     * js                        js函数目录<br/>
     * uploads                 上传目录<br/>
-    * index.php                     入口文件<br/>
+* index.php                     入口文件<br/>
 ## 未完待续
