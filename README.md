@@ -1,6 +1,6 @@
 # DennisFramework<br/>
 ## 简介<br/>
-dennisframework是一款微型的php mvc框架，其目的在于让大家更好的理解php mvc框架.<br/>
+dennisframework是一款微型的php mvc框架，其目的在于让大家更好的理解php框架中mvc的允许原理及流程.<br/>
 
 ## 目录说明<br/>
 * applications                  应用文件目录<br/>
@@ -19,4 +19,12 @@ dennisframework是一款微型的php mvc框架，其目的在于让大家更好�
     * js                        js函数目录<br/>
     * uploads                 上传目录<br/>
 * index.php                     入口文件<br/>
-## 未完待续
+
+# 主要实现
+* MVC基本功能的实现
+* 基础模板引擎功能的实现
+* Mysql数据库基本curd操作的封装
+
+# 安装
+git clone  git@github.com:dennishao/dennisFramework.git
+
